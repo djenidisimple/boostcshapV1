@@ -1,0 +1,12 @@
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\bin\Debug\Boost.exe.config
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\bin\Debug\Boost.exe
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\bin\Debug\Boost.pdb
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.csprojResolveAssemblyReference.cache
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.Form1.resources
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.Properties.Resources.resources
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.csproj.GenerateResource.Cache
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.exe
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.pdb
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\obj\Debug\Boost.FormAdd.resources
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\bin\Debug\Database1.mdf
+C:\Users\Djenidi\Documents\PROJET\c#\Boost\Boost\bin\Debug\Database1_log.ldf
